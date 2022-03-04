@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SerajMaatak
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning asp.net core
-- 💞️ I’m looking to collaborate on ...
 - 📫 whatsApp: +989369725359
 
 <!---
